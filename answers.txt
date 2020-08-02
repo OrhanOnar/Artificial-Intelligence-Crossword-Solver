@@ -1,0 +1,46 @@
+Cozum 1
+   1  2  3  4  5  6  7 
+ 1    O           H  P 
+ 2    D  O     S  A    
+ 3 H  I  S     H  R    
+ 4 I  N        Y  E    
+ 5 C                 A 
+ 6    A     N     I  S 
+ 7    S  H  U  L     S 
+Cozum 2
+   1  2  3  4  5  6  7 
+ 1    O           H  A 
+ 2    D  O     S  A    
+ 3 H  I  S     H  R    
+ 4 I  N        Y  E    
+ 5 D                 U 
+ 6    I     N     C  S 
+ 7    S  O  U  P     A 
+Cozum 3
+   1  2  3  4  5  6  7 
+ 1    O           H  R 
+ 2    D  O     S  A    
+ 3 H  I  S     H  R    
+ 4 I  N        Y  E    
+ 5 T                 C 
+ 6    O     N     V  S 
+ 7    S  O  U  P     T 
+Cozum 4
+   1  2  3  4  5  6  7 
+ 1    O           H  I 
+ 2    D  O     S  A    
+ 3 H  I  S     H  R    
+ 4 I  N        Y  E    
+ 5 E                 M 
+ 6    U     N     U  S 
+ 7    S  C  U  T     G 
+Cozum 5
+   1  2  3  4  5  6  7 
+ 1    O           H  E 
+ 2    D  O     S  A    
+ 3 H  I  S     H  R    
+ 4 I  N        Y  E    
+ 5 C                 E 
+ 6    C     N     A  S 
+ 7    S  N  U  B     S 
+0.940999984741
